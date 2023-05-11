@@ -1,5 +1,31 @@
 ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
 
+1. EventStorming Model : Design Level
+
+![스크린샷 2023-05-11 142818](https://github.com/mactothe/example-food-delivery/assets/19687269/1a3c0dd6-3c5d-4fb5-8568-e1042ae25b0e)
+
+2. Saga (Pub / Sub)
+
+![스크린샷 2023-05-11 151340](https://github.com/mactothe/example-food-delivery/assets/19687269/2dc646eb-159a-42fc-83fe-810429ad3cd6)
+![스크린샷 2023-05-11 151619](https://github.com/mactothe/example-food-delivery/assets/19687269/c5ee4f36-1590-4e9f-befe-3b17f569084e)
+![스크린샷 2023-05-11 152039](https://github.com/mactothe/example-food-delivery/assets/19687269/3ab6cd65-5dbe-4519-a94b-efb723074970)
+
+3. CQRS
+
+![CQRS_1](https://github.com/mactothe/example-food-delivery/assets/19687269/85f1ae71-f7ec-4852-89d2-5ad1c783f2b4)
+![CQRS_2](https://github.com/mactothe/example-food-delivery/assets/19687269/4cc29727-0d28-431a-b7a7-7a34942ce08c)
+![CQRS_3](https://github.com/mactothe/example-food-delivery/assets/19687269/2b5b0813-e99a-4596-8763-5e9cdc37c971)
+![CQRS_4](https://github.com/mactothe/example-food-delivery/assets/19687269/6e8a5aa4-c10c-42b7-9ef0-4b20fc2e1729)
+![CQRS_5](https://github.com/mactothe/example-food-delivery/assets/19687269/7e86999b-ac67-4a1f-8eb3-1457c05d5a17)
+![CQRS_6](https://github.com/mactothe/example-food-delivery/assets/19687269/18ebbd2c-52fa-4ca3-9912-123979e368bc)
+
+4. Compensation / Correlation
+
+![스크린샷 2023-05-11 151619](https://github.com/mactothe/example-food-delivery/assets/19687269/d22d27a9-54fd-43c0-89e4-39fb946a87ff)
+![스크린샷 2023-05-11 151340](https://github.com/mactothe/example-food-delivery/assets/19687269/e31db818-fd45-40d8-85e4-23f4565094cb)
+
+
+
 # 예제 - 음식배달
 
 본 예제는 MSA/DDD/Event Storming/EDA 를 포괄하는 분석/설계/구현/운영 전단계를 커버하도록 구성한 예제입니다.

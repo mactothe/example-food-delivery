@@ -6,9 +6,9 @@
 
 2. Saga (Pub / Sub)
 
-![스크린샷 2023-05-11 151340](https://github.com/mactothe/example-food-delivery/assets/19687269/2dc646eb-159a-42fc-83fe-810429ad3cd6)
-![스크린샷 2023-05-11 151619](https://github.com/mactothe/example-food-delivery/assets/19687269/c5ee4f36-1590-4e9f-befe-3b17f569084e)
-![스크린샷 2023-05-11 152039](https://github.com/mactothe/example-food-delivery/assets/19687269/3ab6cd65-5dbe-4519-a94b-efb723074970)
+![스크린샷 2023-05-11 152039](https://github.com/mactothe/example-food-delivery/assets/19687269/b695e9a9-1881-43f9-bc1f-ae913a7c45c4)
+![스크린샷 2023-05-11 151619](https://github.com/mactothe/example-food-delivery/assets/19687269/56b5c9ad-f910-4c8f-9db9-f65ad28355f3)
+![스크린샷 2023-05-11 151340](https://github.com/mactothe/example-food-delivery/assets/19687269/a7bba706-7479-44a9-8111-295159f8fc80)
 
 3. CQRS
 
@@ -21,9 +21,8 @@
 
 4. Compensation / Correlation
 
-![스크린샷 2023-05-11 151619](https://github.com/mactothe/example-food-delivery/assets/19687269/d22d27a9-54fd-43c0-89e4-39fb946a87ff)
-![스크린샷 2023-05-11 151340](https://github.com/mactothe/example-food-delivery/assets/19687269/e31db818-fd45-40d8-85e4-23f4565094cb)
-
+![스크린샷 2023-05-11 154011](https://github.com/mactothe/example-food-delivery/assets/19687269/eb98fc70-500c-4f27-ad1e-602bb3fd6d28)
+![스크린샷 2023-05-11 154201](https://github.com/mactothe/example-food-delivery/assets/19687269/7ddb8d1f-f6b4-41e2-99b2-cd9e3f0552f6)
 
 
 # 예제 - 음식배달
